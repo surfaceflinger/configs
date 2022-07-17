@@ -1,0 +1,8 @@
+[user]
+	name = surfaceflinger
+	email = nat@nekopon.pl
+	signingkey = 2FA792CF6170E005
+[core]
+	editor = nano
+[commit]
+	gpgsign = true
