@@ -3,3 +3,4 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
 "SavingBrowserHistoryDisabled"=dword:00000001
 "DefaultJavaScriptJitSetting"=dword:00000002
+"HistoryClustersVisible"=dword:00000000

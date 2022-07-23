@@ -1,4 +1,5 @@
 {
 	"SavingBrowserHistoryDisabled": true,
-	"DefaultJavaScriptJitSetting": 2
+	"DefaultJavaScriptJitSetting": 2,
+	"HistoryClustersVisible": false
 }
